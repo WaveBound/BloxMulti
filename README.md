@@ -65,7 +65,7 @@ accounts once, stay logged in to all of them, and jump into any game in seconds.
 ## FAQ
 
 **Is BloxMulti free?**
-[Add your answer.]
+Yes. Unlimited accounts and core features are free, with optional premium extras.
 
 **Is it open source?**
 No. BloxMulti is closed-source, but it uses the open-source libraries listed below.
@@ -83,7 +83,7 @@ Open an [issue](https://github.com/[your-username]/[repo]/issues) or reach out v
 |---|---|
 | **Website** | [noxith.com/bloxmulti](https://noxith.com/bloxmulti/) |
 | **More projects** | [noxith.com](https://noxith.com) |
-| **Discord** | [your invite link] |
+| **Discord** | [[Discord](https://discord.com/invite/ju6ANNecQg)] |
 | **Bug reports** | [GitHub Issues](https://github.com/[your-username]/[repo]/issues) |
 
 ## Third-Party Licenses
