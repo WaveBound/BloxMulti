@@ -16,7 +16,7 @@ Manage every account in one place and launch them all into a game with a single 
 
 ---
 
-![BloxMulti screenshot](https://noxith.com/bloxmulti/screenshot.png)
+![BloxMulti screenshot](assets/screenshot.png)
 <!-- Replace with a real screenshot URL -->
 
 ## Why BloxMulti?
