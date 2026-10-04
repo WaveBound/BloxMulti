@@ -21,8 +21,7 @@ Manage every account in one place and launch them all into a game with a single 
 
 ## Why BloxMulti?
 
-Switching between Roblox accounts usually means logging out, logging in, and
-copy-pasting Place IDs over and over. BloxMulti removes that friction: add your
+Switching between Roblox accounts usually means logging out, logging in over and over. BloxMulti removes that friction: add your
 accounts once, stay logged in to all of them, and jump into any game in seconds.
 
 ## Features
