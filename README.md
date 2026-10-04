@@ -83,7 +83,7 @@ Open an [issue](https://github.com/[your-username]/[repo]/issues) or reach out v
 |---|---|
 | **Website** | [noxith.com/bloxmulti](https://noxith.com/bloxmulti/) |
 | **More projects** | [noxith.com](https://noxith.com) |
-| **Discord** | [Discord](https://discord.com/invite/ju6ANNecQg)] |
+| **Discord** | [Discord](https://discord.com/invite/ju6ANNecQg) |
 | **Bug reports** | [GitHub Issues](https://github.com/[your-username]/[repo]/issues) |
 
 ## Third-Party Licenses
